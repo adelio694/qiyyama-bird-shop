@@ -1,0 +1,11 @@
+.env
+**/.env
+node_modules/
+**/node_modules/
+certs/
+**/certs/
+.dart_tool/
+.flutter-plugins
+build/
+**/build/
+*.key
