@@ -9,3 +9,10 @@ certs/
 build/
 **/build/
 *.key
+
+**/.gradle/
+**/.kotlin/
+**/ephemeral/
+**/local.properties
+**/*.iml
+**/.flutter-plugins-dependencies
