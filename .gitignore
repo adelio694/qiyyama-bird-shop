@@ -16,3 +16,17 @@ build/
 **/local.properties
 **/*.iml
 **/.flutter-plugins-dependencies
+
+**/.gradle/
+**/.kotlin/
+**/ephemeral/
+**/local.properties
+**/*.iml
+**/.flutter-plugins-dependencies
+
+!mobile/android/gradle/wrapper/gradle-wrapper.jar
+!mobile/android/gradlew
+!mobile/android/gradlew.bat
+!mobile/android/app/src/main/java/
+!mobile/ios/Runner/GeneratedPluginRegistrant.h
+!mobile/ios/Runner/GeneratedPluginRegistrant.m
